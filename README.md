@@ -1,7 +1,5 @@
 
 
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D03AQGiMJ200Oz2sw/profile-displayphoto-scale_400_400/B4DZm1Z1syJgAg-/0/1759685074340?e=1762387200&v=beta&t=ZrbK6qCyDYUM-_C2bDe8WcPST94pN8pIxLxVjOcEgCI)
-
 <h1 align="center">Hi 👋, I'm Duygu Erişken</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
@@ -11,7 +9,7 @@
 
 - 🌱 I’m currently learning **mysql,python,tableu**
 
-- 💬 Ask me about **mysql**
+- 💬 Ask me about **python**
 
 - 📫 How to reach me **duygueriskennn@gmail.com**
 
