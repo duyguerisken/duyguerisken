@@ -1,29 +1,24 @@
+<h1 align="center">Hi, I'm Duygu Erişken</h1>
 
-
-<h1 align="center">Hi 👋, I'm Duygu Erişken</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duyguerisken&label=Profile%20views&color=0e75b6&style=flat" alt="duyguerisken" /> </p>
-
-- 🔭 I’m currently working on **python**
-
-- 🌱 I’m currently learning **mysql,python,tableu**
-
-- 💬 Ask me about **python**
-
-- 📫 How to reach me **duygueriskennn@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/duygu-erişken-1201ahjks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="duygu-erişken-1201ahjks" height="30" width="40" /></a>
-<a href="https://instagram.com/duyguerisken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duyguerisken" height="30" width="40" /></a>
+<p align="center">
+  AI Researcher & Data Scientist · Mathematics (Trakya University) · İstanbul, Türkiye
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/duygu-erisken-1201ahjks/">LinkedIn</a> ·
+  <a href="https://orcid.org/0009-0002-2177-9001">ORCID</a> ·
+  <a href="https://scholar.google.com/citations?user=8yqTsRIAAAAJ&hl=tr">Google Scholar</a> ·
+  <a href="https://huggingface.co/duyguerisken">Hugging Face</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duyguerisken&show_icons=true&locale=en&layout=compact" alt="duyguerisken" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duyguerisken&show_icons=true&locale=en" alt="duyguerisken" /></p>
+I specialize in bridging mathematical modeling with applied AI — working across ML, Deep Learning, NLP, Computer Vision, and Quantum Game Theory. I've developed 50+ end-to-end projects and co-authored research published at arXiv and international conferences (ICADA, IDAF).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duyguerisken&" alt="duyguerisken" /></p>
+**Currently:** Team Captain @ TEKNOFEST 2026 AI in Health · GenAI Product Lead @ Build Hub · AI Intern @ Polar GIS Engineering
+
+---
+
+**Focus areas:** Trustworthy & Explainable AI · Clinical NLP · Multi-Agent RL · Generative AI · Neuromorphic Computing
+
+**Stack:** Python · TensorFlow · PyTorch · Scikit-learn · HuggingFace · SQL
